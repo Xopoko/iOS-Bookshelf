@@ -30,6 +30,12 @@ Here I will add articles and books on ios development.
 
 * [Edit Breakpoints in Xcode](https://medium.com/ios-os-x-development/edit-breakpoints-in-xcode-a20b4e453598)
 
+# RX
+
+* [RXSwift operators pdf](https://github.com/sparklone/RxSwift/blob/master/RXSwift%20operators.pdf)
+* [Interactive diagrams of Rx Observables](http://rxmarbles.com/#timer)
+* [RxSwift шпаргалка по операторам (+ PDF)](https://habr.com/post/281292/)
+
 # App Store
 
 * [How to Submit An App to Apple: From No Account to App Store – Part 1](https://www.raywenderlich.com/120-how-to-submit-an-app-to-apple-from-no-account-to-app-store-part-1)
