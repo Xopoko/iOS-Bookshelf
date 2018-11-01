@@ -34,6 +34,9 @@ Here I will add articles and books on ios development.
 
 * [Edit Breakpoints in Xcode](https://medium.com/ios-os-x-development/edit-breakpoints-in-xcode-a20b4e453598)
 
+# Simulator
+* [Capture iOS simulator video for App Preview](http://www.avanderlee.com/workflow/capture-ios-simulator-video-app-preview/)
+
 # RX
 
 * [RXSwift operators pdf](https://github.com/sparklone/RxSwift/blob/master/RXSwift%20operators.pdf)
