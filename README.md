@@ -18,6 +18,10 @@ Here I will add articles and books on ios development.
   
 * [UIBarButtonItem & iOS 11](https://www.matrixprojects.net/p/uibarbuttonitem-ios11)
 
+**UITabBar**
+  
+* [Bringing animation to UITabBarController](https://medium.com/@JillevdWeerd/bringing-animation-to-uitabbarcontroller-1b8780ced374) - customizing your tab bar
+
 # App notifications
 
 * [iOS remote push notifications in a nutshell](https://medium.com/flawless-app-stories/ios-remote-push-notifications-in-a-nutshell-d05f5ccac252)
