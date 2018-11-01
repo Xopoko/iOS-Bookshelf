@@ -21,6 +21,10 @@ Here I will add articles and books on ios development.
 
 * [Dividing and Conquering Your Xcode Projects with Targets](https://www.appcoda.com/xcode-targets)
 
+# Debug
+
+* [Edit Breakpoints in Xcode](https://medium.com/ios-os-x-development/edit-breakpoints-in-xcode-a20b4e453598)
+
 # App Store
 
 * [How to Submit An App to Apple: From No Account to App Store – Part 1](https://www.raywenderlich.com/120-how-to-submit-an-app-to-apple-from-no-account-to-app-store-part-1)
