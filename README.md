@@ -25,3 +25,7 @@ Here I will add articles and books on ios development.
 
 * [How to Submit An App to Apple: From No Account to App Store – Part 1](https://www.raywenderlich.com/120-how-to-submit-an-app-to-apple-from-no-account-to-app-store-part-1)
 * [How to Submit An App to Apple: From No Account to App Store – Part 2](https://www.raywenderlich.com/119-how-to-submit-an-app-to-apple-from-no-account-to-app-store-part-2)
+
+# Refactor and Patterns
+
+* [Refactoring guru](https://refactoring.guru)
