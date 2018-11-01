@@ -16,7 +16,7 @@ Here I will add articles and books on ios development.
 
 **UIBarButton**
   
-* [UIBarButtonItem & iOS 11](hhttps://www.matrixprojects.net/p/uibarbuttonitem-ios11/)
+* [UIBarButtonItem & iOS 11](https://www.matrixprojects.net/p/uibarbuttonitem-ios11)
 
 # App notifications
 
